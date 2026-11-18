@@ -13,7 +13,7 @@ Mwaka Mboka 1 ne collecte, ne transmet et ne partage aucune donnée personnelle.
 
 Le jeu s'adresse à un public de 16 ans et plus. Les personnages, partis, entreprises et radios du jeu sont fictifs.
 
-Contact : [ADRESSE_A_REMPLACER](mailto:ADRESSE_A_REMPLACER)
+Contact : [codewithuse@gmail.com](mailto:codewithuse@gmail.com)
 
 ## Privacy Policy
 
@@ -28,7 +28,7 @@ Mwaka Mboka 1 does not collect, transmit or share any personal data.
 
 The game is intended for players aged 16 and over. All characters, parties, companies and radio stations in the game are fictional.
 
-Contact: [ADRESSE_A_REMPLACER](mailto:ADRESSE_A_REMPLACER)
+Contact: [codewithuse@gmail.com](mailto:codewithuse@gmail.com)
 
 ---
 
