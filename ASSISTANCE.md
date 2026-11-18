@@ -1,6 +1,6 @@
 # Assistance — Mwaka Mboka 1
 
-Une question, un problème ou une idée ? Écris-nous : [ADRESSE_A_REMPLACER](mailto:ADRESSE_A_REMPLACER). Indique le modèle de ton téléphone, la version du système et, si possible, la mission où le problème arrive.
+Une question, un problème ou une idée ? Écris-nous : [codewithuse@gmail.com](mailto:codewithuse@gmail.com). Indique le modèle de ton téléphone, la version du système et, si possible, la mission où le problème arrive.
 
 ## Questions fréquentes
 
